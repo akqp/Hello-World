@@ -1,4 +1,5 @@
 # Hello-World
-Just another repository
-test test test
-Additional information
+## 京都旅行の計画
+午前中に京都に到着
+軽食
+次に紅葉を観る
